@@ -11,6 +11,7 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
+		"ora": "^8.0.1",
 		"puppeteer": "^23.1.0"
 	}
 }
